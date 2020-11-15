@@ -14,6 +14,11 @@ void dev_funcB()
 	printf("dev_funcB()\n");
 }
 
+void test()
+{
+	printf("test\n");
+}
+
 int main(int argc, char *argv[])
 {
 	printf("hello world.\n");
