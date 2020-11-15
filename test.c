@@ -18,6 +18,10 @@ void test()
 {
 	printf("test\n");
 }
+void dev_funcC()
+{
+	printf("dev_funcC\n");
+}
 
 int main(int argc, char *argv[])
 {
