@@ -9,6 +9,11 @@ void dev_funcA()
 	printf("dev_funA()\n");
 }
 
+void dev_funcC()
+{
+	printf("dev_funcC\n");
+}
+
 int main(int argc, char *argv[])
 {
 	printf("hello world.\n");
